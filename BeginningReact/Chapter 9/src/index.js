@@ -11,7 +11,7 @@ import 'firebase/compat/database';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 const config = {
-  apiKey: "AIzaSyA_zuF1lyleOeF-iRTiZ8VdlnmDHnRsREE",
+  apiKey: "",
   authDomain: "myfirstreactproject-8b308.firebaseapp.com",
   projectId: "myfirstreactproject-8b308",
   storageBucket: "myfirstreactproject-8b308.appspot.com",
